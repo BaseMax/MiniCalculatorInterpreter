@@ -38,7 +38,7 @@ Tiny calculator interpreter with supporting Mathematical functions using Python.
 - copysign
 - pow
 
-### Using
+### Download
 
 ```
 git clone https://github.com/BaseMax/MiniCalculatorInterpreter
@@ -70,6 +70,36 @@ expression -> NAME LPAREN expressions RPAREN
 expression -> NUMBER_INT
 expression -> NUMBER_DOUBLE
 expression -> NAME
+```
+
+### Using
+
+```
+> 5+5
+10
+> 5*6
+30
+> pow(5,2)
+25.0
+> pi*2  
+6.283185307179586
+> e/2
+1.3591409142295225
+> log10(10)
+1.0
+> badFunction(10)
+Undefined function 'badFunction'
+None
+> log2(10)
+3.321928094887362
+> log(10)
+2.302585092994046
+> test=5+6+sin(pi/2)
+> test*test+5
+149.0
+> test=test*5
+> test
+60.0
 ```
 
 ----
