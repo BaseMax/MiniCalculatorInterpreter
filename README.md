@@ -1,6 +1,6 @@
 # Mini Calculator Interpreter
 
-Tiny calculator interpreter using Python.
+Tiny calculator interpreter with supporting Mathematical functions using Python.
 
 ## Mathematical Cconstants
 
