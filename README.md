@@ -15,17 +15,21 @@ python calculator.py
 
 ```
 S -> statement
+
 statement -> NAME EQUALS expression
 statement -> expression,statement
+
 expression -> expression PLUS expression
 expression -> expression MINUS expression
 expression -> expression DIVIDE expression
 expression -> expression TIMES expression
 expression -> MINUS expression
 expression -> LPAREN expression RPAREN
+
 expressions -> expressions COLON expression
 expressions -> expression
 expressions -> <empty>
+
 expression -> NAME LPAREN expressions RPAREN
 expression -> NUMBER_INT
 expression -> NUMBER_DOUBLE
