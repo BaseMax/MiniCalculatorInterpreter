@@ -2,7 +2,12 @@
 
 Tiny calculator interpreter using Python.
 
-## Math Functions
+## Mathematical Cconstants
+
+- pi
+- e
+
+## Mathematical Functions
 
 - sin
 - cos
