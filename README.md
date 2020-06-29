@@ -2,12 +2,18 @@
 
 Tiny calculator interpreter with supporting Mathematical functions using Python.
 
-## Mathematical Cconstants
+## Features
+
+- Variable
+- Mathematical Constants
+- Mathematical Functions
+
+### Mathematical Constants
 
 - pi
 - e
 
-## Mathematical Functions
+### Mathematical Functions
 
 - sin
 - cos
