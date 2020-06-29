@@ -34,7 +34,7 @@ Tiny calculator interpreter with supporting Mathematical functions using Python.
 - ceil
 - fabs
 - actorial
-- loor
+- floor
 - copysign
 - pow
 
