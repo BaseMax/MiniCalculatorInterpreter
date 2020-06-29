@@ -2,6 +2,17 @@
 
 Tiny calculator interpreter using Python.
 
+### Using
+
+```
+git clone https://github.com/BaseMax/MiniCalculatorInterpreter
+cd MiniCalculatorInterpreter
+sudo pip3 install ply
+python calculator.py
+```
+
+### Grammer
+
 ```
 S -> statement
 statement -> NAME EQUALS expression
