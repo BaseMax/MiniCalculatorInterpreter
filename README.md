@@ -2,6 +2,29 @@
 
 Tiny calculator interpreter using Python.
 
+## Math Functions
+
+- sin
+- cos
+- log
+- log10
+- log2
+- exp
+- sqrt
+- acos
+- atan
+- radians
+- sinh
+- cosh
+- tanh
+- asin
+- ceil
+- fabs
+- actorial
+- loor
+- copysign
+- pow
+
 ### Using
 
 ```
