@@ -2,7 +2,7 @@
 
 Tiny calculator interpreter with supporting Mathematical functions using Python.
 
-![Mini Calculator Interpreter python](demo.jpg)
+<img alt="Mini Calculator Interpreter python" src="https://raw.githubusercontent.com/BaseMax/MiniCalculatorInterpreter/master/demo.jpg" width="300">
 
 ## Features
 
