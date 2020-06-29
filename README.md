@@ -53,7 +53,7 @@ python calculator.py
 S -> statement
 
 statement -> NAME EQUALS expression
-statement -> expression,statement
+statement -> expression
 
 expression -> expression PLUS expression
 expression -> expression MINUS expression
