@@ -1,4 +1,4 @@
-# lextab.py. This file automatically created by PLY (version 3.11). Don't edit!
+# lextab.py.
 _tabversion   = '3.10'
 _lextokens    = set(('COLON', 'DIVIDE', 'EQUALS', 'LPAREN', 'MINUS', 'NAME', 'NUMBER_DOUBLE', 'NUMBER_INT', 'PLUS', 'RPAREN', 'TIMES'))
 _lexreflags   = 64
