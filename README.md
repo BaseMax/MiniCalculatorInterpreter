@@ -102,6 +102,10 @@ None
 60.0
 ```
 
+## Similar Projects
+
+- https://github.com/BaseMax/CFG2CNF
+
 ----
 
 # Max Base
