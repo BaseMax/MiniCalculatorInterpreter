@@ -106,6 +106,10 @@ None
 
 - https://github.com/BaseMax/CFG2CNF
 
+#### Installing Dependencies
+
+Depends on ply and python.
+
 ----
 
 # Max Base
