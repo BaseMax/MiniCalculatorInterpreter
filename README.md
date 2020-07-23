@@ -110,7 +110,7 @@ None
 
 Depends on ply and python.
 
-#### Acknowledgments
+### Acknowledgments
 
 It's been a few years since I did not worked with the ply library And I really forgot about that.
 Professor [**Ahmad Yoosofan**](http://yoosofan.github.io/en/) was the one who reminded me of this library again. Thanks so much. ([Video: Working with ply on YouTube](https://www.youtube.com/watch?v=gWlO_Rj14CE))
